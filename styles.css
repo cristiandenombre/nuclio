@@ -1,0 +1,40 @@
+
+            header{
+               position: relative;
+                margin: 10px;
+                background-color: rgba(235, 165, 165, 0.37);
+                border-bottom-left-radius: 200px;
+                border-bottom-right-radius: 200px;
+                padding-bottom: 0px;
+                
+            }   
+                body{
+                    font-family: 'Crimson Pro', serif;
+                    font-size: 20px;
+                    background-color: gray;
+                }
+                img{
+                    width: 500px;
+                    margin: 0px;
+                    left: 438;
+                    margin-left: 442px;
+                }
+            
+                header ul {
+                    bottom: 20px;
+                    right: 100px;
+                    margin-top: 10px;
+                    margin-left: 422px;
+                }
+                header ul li {
+                    display: inline-block;
+                    font-size: 20px;
+                    margin-left: 30px;
+                    bottom: 30px;
+                    text-align: center;
+                    width: auto;
+        
+                }
+                header ul li.Selected {
+                    border-bottom: 5px solid white;
+                }
